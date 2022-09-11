@@ -18,39 +18,44 @@ Koo has been created by Bombinate Technologies Private Limited which is a Bangal
 ## koo Clone
 
 ### Home Page
+
 This is our home page from where the user can login to out Koo app.
 ![Home_page](https://user-images.githubusercontent.com/87421885/150675951-183787f8-7c90-4533-8a57-c035cd9a3bf1.png)
 
 ### Sign up Page
-User enter their email or mobile number for sign Up 
+
+User enter their email or mobile number for sign Up
 ![Sign_in](https://user-images.githubusercontent.com/87421885/150676151-66ac8cab-c270-4f18-a615-c4750f9cea4e.png)
 
 ### Post your comments
+
 Here user can post their comments and also add some emojis.
 ![Post_request](https://user-images.githubusercontent.com/87421885/150676484-814bb41c-d44b-4577-a23a-e3623c45040a.png)
 
 ### People Section
+
 in this section you can see the list of people to whom we can follow.
 ![follow](https://user-images.githubusercontent.com/87421885/150676855-821e382c-b310-4e93-8f0d-827a6e4283dc.png)
 
-
-
 ### Trending Vedio
+
 You can see the real-time data of that section which you want to explore.
 ![Trending_Vedio](https://user-images.githubusercontent.com/87421885/150676014-aa05dd50-d48a-4fc1-8604-11634bcefca8.png)
 
 ### Contact us Page
+
 If user have any query then he can contact us from here.
 ![Contact_us](https://user-images.githubusercontent.com/87421885/150675989-fab4a035-5713-4922-8aec-db58f245ec20.png)
 
 ### Faq Page
-Here user can see the  freqently asked question about the koo app
-![Faq](https://user-images.githubusercontent.com/87421885/150676224-92526542-682e-49a8-882d-1f79143965d1.png)
 
+Here user can see the freqently asked question about the koo app
+![Faq](https://user-images.githubusercontent.com/87421885/150676224-92526542-682e-49a8-882d-1f79143965d1.png)
 
 ## [Getting Started]
 
 ### Execution..
+
 Want to run in your local Machine? Great!
 
 To run, follow these steps:
@@ -61,8 +66,7 @@ To run, follow these steps:
 - Run port number on the browser `http://localhost:port/home`
 - Then you can Navigate through other pages from Home page
 
-
-## Built with 
+## Built with
 
 - React
 - CSS
@@ -71,16 +75,3 @@ To run, follow these steps:
 - Express js
 - MongoDb
 - npm Packages
-
-
-## Creators
-
-- [@Aakash Naykude]()
-- [@George Abraham]()
-- [@Arnavi]()
-- [@Vani. A]()
-- [@Mayank Prajapati](https://github.com/Mayankpraja123)
-
-
-
-
