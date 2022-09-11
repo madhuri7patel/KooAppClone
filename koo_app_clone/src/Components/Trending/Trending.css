@@ -1,0 +1,51 @@
+#feedcont {
+  max-width: 850px;
+}
+#heads {
+  font-family: Roboto, sans-serif;
+}
+#header {
+  display: block;
+  width: 100%;
+  white-space: nowrap;
+  overflow-x: auto;
+  height: 70px;
+  position: sticky;
+}
+#header::-webkit-scrollbar {
+  width: 0;
+}
+#heads {
+  margin-left: 4%;
+  margin-top: 3%;
+  font-size: 18px;
+  color: #5d7684;
+  display: inline-block;
+}
+.inputbar {
+  border: 1px solid #e0e0e0;
+  background-color: white;
+  height: 55px;
+  margin-left: 3%;
+  width: 94%;
+  border-radius: 12px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.iconimage {
+  width: 30px;
+  margin-left: 15px;
+}
+
+.inputbar > div > p {
+  color: #d2cfcd;
+  font-size: 18px;
+  font-weight: 500;
+  margin-top: 15px;
+  margin-left: 15px;
+  font-family: Roboto, sans-serif;
+}
+.addiconlogo {
+  padding: 14px;
+}

@@ -1,0 +1,98 @@
+.maincont {
+    border: 1px solid #e0e0e0;
+    width: 93.5%;
+    margin-left: 3.25%;
+    margin-top: 10px;
+    background-color: #fdfdfd;
+    padding: 10px;
+    border-radius: 12px;
+  }
+  .cont1 {
+    display: flex;
+    gap: 2%;
+  }
+  .profilepic {
+    width: 48px;
+    border-radius: 50%;
+  }
+  .name {
+    font-size: 18px;
+    font-weight: 600;
+  }
+  .username {
+    margin-top: 3px;
+    font-size: 14px;
+    font-weight: 500;
+  }
+  .cont2 {
+    width: 90%;
+    margin-left: 8.5%;
+    font-size: 17px;
+    margin-top: 4px;
+  }
+  .cont3 {
+    width: 90%;
+    margin-left: 8.5%;
+    margin-top: 1.5%;
+  }
+  .cont3 > img {
+    width: 100%;
+    max-height: 300px;
+    border-radius: 12px;
+  }
+  .cont4 {
+    width: 90%;
+    margin-left: 8.5%;
+    display: flex;
+    margin-top: 1.6%;
+    justify-content: space-between;
+  }
+  .cont4 > div {
+    display: flex;
+  }
+  .cont4 > div > img {
+    width: 25px;
+    background-color: white;
+    color: white;
+    padding: 2px;
+  }
+  .whatsappicon {
+    width: 25px;
+    background-color: white;
+    color: white;
+    padding: 2px;
+  }
+  .cont4 > div > img:hover {
+    background-color: #d4dbdb;
+    border-radius: 50%;
+  }
+  .cont4 > div > a > img:hover {
+    background-color: #d4dbdb;
+    border-radius: 50%;
+  }
+  .cont4 > div > h1 {
+    font-size: 15px;
+    margin-top: 4px;
+  }
+  .cont5 {
+    width: 90%;
+    margin-left: 8.5%;
+    border: 1px solid #e0e0e0;
+    margin-top: 1.5%;
+    display: flex;
+    border-radius: 15px;
+  }
+  .cont5:hover > h1 {
+    color: gray;
+    font-weight: 500;
+  }
+  .cont5 > img {
+    width: 30px;
+    padding: 5px;
+  }
+  .cont5 > h1 {
+    padding: 6px;
+    font-size: 13px;
+    color: #9e9e9e;
+  }
+  

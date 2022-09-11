@@ -1,0 +1,71 @@
+
+.sidebaroptions{
+    display: flex;
+    width: 500px;
+    border: 1px solid black;
+}
+.sidebar{
+    border-right: 1px solid #c7c7c7;
+    flex: 0.3;
+    min-width: 220px;
+    margin-top: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.koo-logo{
+    width: 3rem;
+    margin: auto 3rem;
+    vertical-align: middle;
+} 
+.koo_btn{
+    background-color: #5d7681 !important;
+    border-radius: 50px !important;
+    display: flex !important;
+    align-items: center !important;
+    border: 2px solid #759295 !important;
+    padding: 8px !important;
+    width: 150px !important;
+    place-content: center !important;
+    color: #fff !important;
+    font-weight: 600 !important;
+    text-transform: inherit !important; 
+    margin-top: 20px !important;
+}
+
+#tabcont{
+    text-align: center;
+}
+
+#addKooBtn{
+    background-color: gray;
+    color: white;
+    padding: 10px;
+    width: 140px;
+    border-radius: 25px;
+    font-size: 18px;
+    font-weight: 600;
+    margin-top: 18px;
+}
+#beforesignin{
+    background-color: gray;
+    color: white;
+    padding: 10px;
+    width: 140px;
+    border-radius: 25px;
+    font-size: 18px;
+    font-weight: 600;
+    margin-top: 18px;
+    margin-right: 45px;
+}
+
+#signin{
+    background-color: gray;
+    color: white;
+    padding: 10px;
+    width: 140px;
+    border-radius: 25px;
+    font-size: 18px;
+    font-weight: 600;
+    margin-top: 260px;
+    margin-right: 45px;
+}

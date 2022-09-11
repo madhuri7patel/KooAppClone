@@ -1,0 +1,14 @@
+#feedcont {
+  max-width: 850px;
+}
+#header::-webkit-scrollbar {
+  width: 0;
+}
+
+.notificationcont {
+  text-align: center;
+  font-size: 16px;
+  font-weight: 600;
+  margin-top: 25px;
+  color: gray;
+}

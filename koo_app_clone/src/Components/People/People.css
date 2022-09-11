@@ -1,0 +1,110 @@
+#feedcont {
+  max-width: 850px;
+}
+#heads {
+  font-family: Roboto, sans-serif;
+}
+#header {
+  display: block;
+  width: 100%;
+  white-space: nowrap;
+  overflow-x: auto;
+  height: 70px;
+  position: sticky;
+}
+#header::-webkit-scrollbar {
+  width: 0;
+}
+#heads {
+  margin-left: 4%;
+  margin-top: 3%;
+  font-size: 18px;
+  color: #5d7684;
+  display: inline-block;
+}
+.inputbar {
+  border: 1px solid #e0e0e0;
+  background-color: white;
+  height: 55px;
+  margin-left: 3%;
+  width: 94%;
+  border-radius: 12px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.iconimage {
+  width: 30px;
+  margin-left: 15px;
+}
+
+.inputbar > div > p {
+  color: #d2cfcd;
+  font-size: 18px;
+  font-weight: 500;
+  margin-top: 15px;
+  margin-left: 15px;
+  font-family: Roboto, sans-serif;
+}
+.addiconlogo {
+  padding: 14px;
+}
+.peoplecan {
+  margin-left: 25px;
+  font-size: 19px;
+  font-weight: 600;
+}
+#peoplecont {
+  border: 1px solid #e0e0e0;
+  background-color: #fdfdfd;
+  border-radius: 12px;
+  width: 94%;
+  margin-top: 10px;
+  margin-left: 3%;
+}
+.showpeople {
+  display: flex;
+  justify-content: space-between;
+  width: 97%;
+  margin-left: 1.5%;
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+.profilepicandname {
+  display: flex;
+}
+.profilepicandname > img {
+  width: 70px;
+  border-radius: 50%;
+}
+.profilepicandname > div {
+  margin-left: 15px;
+}
+.profilepicandname > div > div {
+  display: flex;
+}
+.profilepicandname > div > div > h1 {
+  font-size: 19px;
+  font-weight: 600;
+}
+.profilepicandname > div > div > img {
+  margin-top: 5px;
+  width: 17px;
+  height: 17px;
+  margin-left: 3px;
+}
+.profilepicandname > div > h2 {
+  font-size: 15px;
+  margin-top: 7px;
+  font-weight: 500;
+}
+.followbtn {
+  height: 30px;
+  width: 90px;
+  border-radius: 12px;
+  color: white;
+  margin-top: 20%;
+  font-weight: 600;
+  background-color: #809b9d;
+  margin-left: 12px;
+}
